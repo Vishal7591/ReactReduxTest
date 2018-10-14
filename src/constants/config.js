@@ -1,0 +1,1 @@
+export const PUBLIC_URL="http://www.mocky.io/v2/";
